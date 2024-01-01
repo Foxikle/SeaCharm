@@ -1,0 +1,20 @@
+collisions: []
+displays:
+  - >-
+    {id:"minecraft:block_display",block_state:{Name:"minecraft:oak_planks",Properties:{}},transformation:[2.0000f,0.0000f,0.0000f,0.0000f,0.0000f,0.8660f,0.1500f,0.0000f,0.0000f,-0.5000f,0.2598f,0.0000f,0.0000f,0.0000f,0.0000f,1.0000f]}
+  - >-
+    {id:"minecraft:block_display",block_state:{Name:"minecraft:oak_planks",Properties:{}},transformation:[0.6629f,0.0000f,-0.2121f,2.0000f,0.3315f,0.8660f,0.1061f,0.0000f,0.5741f,-0.5000f,0.1837f,0.0000f,0.0000f,0.0000f,0.0000f,1.0000f]}
+  - >-
+    {id:"minecraft:block_display",block_state:{Name:"minecraft:oak_planks",Properties:{}},transformation:[2.0000f,0.0000f,0.0000f,0.0000f,0.0000f,0.8660f,-0.1500f,0.1250f,0.0000f,0.5000f,0.2598f,0.8750f,0.0000f,0.0000f,0.0000f,1.0000f]}
+  - >-
+    {id:"minecraft:block_display",block_state:{Name:"minecraft:oak_planks",Properties:{}},transformation:[0.0000f,0.2588f,0.3381f,2.3750f,0.0000f,0.9659f,-0.0906f,0.3750f,-0.8000f,0.0000f,0.0000f,1.0000f,0.0000f,0.0000f,0.0000f,1.0000f]}
+  - >-
+    {id:"minecraft:block_display",block_state:{Name:"minecraft:oak_planks",Properties:{}},transformation:[0.6629f,0.0000f,0.2121f,1.8125f,0.3315f,0.8660f,-0.1061f,0.0625f,-0.5741f,0.5000f,0.1837f,0.9375f,0.0000f,0.0000f,0.0000f,1.0000f]}
+  - >-
+    {id:"minecraft:block_display",block_state:{Name:"minecraft:dark_oak_planks",Properties:{}},transformation:[2.2500f,0.0000f,0.0000f,-0.0000f,0.0000f,0.3750f,0.0000f,-0.0436f,0.0000f,0.0000f,1.0000f,0.0625f,0.0000f,0.0000f,0.0000f,1.0000f]}
+  - >-
+    {id:"minecraft:block_display",block_state:{Name:"minecraft:oak_planks",Properties:{}},transformation:[-0.0000f,0.0000f,0.3000f,0.0000f,0.0000f,1.0000f,0.0000f,0.0000f,-1.1875f,0.0000f,-0.0000f,1.1875f,0.0000f,0.0000f,0.0000f,1.0000f]}
+  - >-
+    {id:"minecraft:block_display",block_state:{Name:"minecraft:oak_planks",Properties:{}},transformation:[-0.0000f,0.0000f,0.3000f,0.0000f,0.0000f,0.5000f,0.0000f,0.5000f,-1.6250f,0.0000f,-0.0000f,1.3750f,0.0000f,0.0000f,0.0000f,1.0000f]}
+name: Simple Boat
+price: 1000

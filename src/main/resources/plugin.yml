@@ -1,0 +1,15 @@
+name: SeaCharm
+version: ${version}
+main: dev.foxikle.seacharm.SeaCharm
+api-version: '1.20'
+prefix: SeaCharm
+authors: [Foxikle]
+description: A plugin implementing complex models of boats using BlockDisplay entities.
+website: https://foxikle.dev/plugins
+depend:
+  - ProtocolLib
+softdepend:
+  - PlaceholderAPI
+commands:
+  boat:
+    description: Summonds the boat
